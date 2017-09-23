@@ -1,0 +1,7 @@
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\bin\Debug\DataTypes-floatPointType.exe.config
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\bin\Debug\DataTypes-floatPointType.exe
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\bin\Debug\DataTypes-floatPointType.pdb
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\obj\Debug\DataTypes-floatPointType.csprojResolveAssemblyReference.cache
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\obj\Debug\DataTypes-floatPointType.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\obj\Debug\DataTypes-floatPointType.exe
+C:\Users\Mhmd\source\repos\DataTypes-floatPointType\DataTypes-floatPointType\obj\Debug\DataTypes-floatPointType.pdb
