@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes-CharStringBoolTypes", "DataTypes-CharStringBoolTypes\DataTypes-CharStringBoolTypes.csproj", "{63002F22-99A8-431C-B68B-D03DBE8EEF41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63002F22-99A8-431C-B68B-D03DBE8EEF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63002F22-99A8-431C-B68B-D03DBE8EEF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63002F22-99A8-431C-B68B-D03DBE8EEF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63002F22-99A8-431C-B68B-D03DBE8EEF41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBB9F4A1-9F47-48E0-86D6-790B7960B042}
+	EndGlobalSection
+EndGlobal
