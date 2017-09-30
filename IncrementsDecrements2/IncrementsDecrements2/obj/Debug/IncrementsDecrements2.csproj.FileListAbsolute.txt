@@ -1,0 +1,6 @@
+C:\Visual st\IncrementsDecrements2\IncrementsDecrements2\bin\Debug\IncrementsDecrements2.exe.config
+C:\Visual st\IncrementsDecrements2\IncrementsDecrements2\bin\Debug\IncrementsDecrements2.exe
+C:\Visual st\IncrementsDecrements2\IncrementsDecrements2\bin\Debug\IncrementsDecrements2.pdb
+C:\Visual st\IncrementsDecrements2\IncrementsDecrements2\obj\Debug\IncrementsDecrements2.csproj.CoreCompileInputs.cache
+C:\Visual st\IncrementsDecrements2\IncrementsDecrements2\obj\Debug\IncrementsDecrements2.exe
+C:\Visual st\IncrementsDecrements2\IncrementsDecrements2\obj\Debug\IncrementsDecrements2.pdb
