@@ -1,0 +1,7 @@
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\bin\Debug\Nested If-Statement.exe.config
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\bin\Debug\Nested If-Statement.exe
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\bin\Debug\Nested If-Statement.pdb
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\obj\Debug\Nested If-Statement.csprojResolveAssemblyReference.cache
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\obj\Debug\Nested If-Statement.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\obj\Debug\Nested If-Statement.exe
+C:\Users\Mhmd\source\repos\Nested If-Statement\Nested If-Statement\obj\Debug\Nested If-Statement.pdb
