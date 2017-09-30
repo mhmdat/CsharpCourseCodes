@@ -1,0 +1,7 @@
+C:\Visual st\If-Statements\If-Statements\bin\Debug\If-Statements.exe.config
+C:\Visual st\If-Statements\If-Statements\bin\Debug\If-Statements.exe
+C:\Visual st\If-Statements\If-Statements\bin\Debug\If-Statements.pdb
+C:\Visual st\If-Statements\If-Statements\obj\Debug\If-Statements.csprojResolveAssemblyReference.cache
+C:\Visual st\If-Statements\If-Statements\obj\Debug\If-Statements.csproj.CoreCompileInputs.cache
+C:\Visual st\If-Statements\If-Statements\obj\Debug\If-Statements.exe
+C:\Visual st\If-Statements\If-Statements\obj\Debug\If-Statements.pdb
