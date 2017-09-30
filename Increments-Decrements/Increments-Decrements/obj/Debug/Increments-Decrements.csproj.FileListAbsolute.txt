@@ -1,0 +1,7 @@
+C:\Visual st\Increments-Decrements\Increments-Decrements\bin\Debug\Increments-Decrements.exe.config
+C:\Visual st\Increments-Decrements\Increments-Decrements\bin\Debug\Increments-Decrements.exe
+C:\Visual st\Increments-Decrements\Increments-Decrements\bin\Debug\Increments-Decrements.pdb
+C:\Visual st\Increments-Decrements\Increments-Decrements\obj\Debug\Increments-Decrements.csprojResolveAssemblyReference.cache
+C:\Visual st\Increments-Decrements\Increments-Decrements\obj\Debug\Increments-Decrements.csproj.CoreCompileInputs.cache
+C:\Visual st\Increments-Decrements\Increments-Decrements\obj\Debug\Increments-Decrements.exe
+C:\Visual st\Increments-Decrements\Increments-Decrements\obj\Debug\Increments-Decrements.pdb
