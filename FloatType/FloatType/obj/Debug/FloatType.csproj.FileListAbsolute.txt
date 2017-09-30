@@ -1,0 +1,7 @@
+C:\Visual st\FloatType\FloatType\bin\Debug\FloatType.exe.config
+C:\Visual st\FloatType\FloatType\bin\Debug\FloatType.exe
+C:\Visual st\FloatType\FloatType\bin\Debug\FloatType.pdb
+C:\Visual st\FloatType\FloatType\obj\Debug\FloatType.csproj.CoreCompileInputs.cache
+C:\Visual st\FloatType\FloatType\obj\Debug\FloatType.exe
+C:\Visual st\FloatType\FloatType\obj\Debug\FloatType.pdb
+C:\Visual st\FloatType\FloatType\obj\Debug\FloatType.csprojResolveAssemblyReference.cache
