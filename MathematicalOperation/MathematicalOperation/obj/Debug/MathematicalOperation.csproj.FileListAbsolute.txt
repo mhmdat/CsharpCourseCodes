@@ -1,0 +1,6 @@
+C:\Visual st\MathematicalOperation\MathematicalOperation\obj\Debug\MathematicalOperation.csproj.CoreCompileInputs.cache
+C:\Visual st\MathematicalOperation\MathematicalOperation\bin\Debug\MathematicalOperation.exe.config
+C:\Visual st\MathematicalOperation\MathematicalOperation\bin\Debug\MathematicalOperation.exe
+C:\Visual st\MathematicalOperation\MathematicalOperation\bin\Debug\MathematicalOperation.pdb
+C:\Visual st\MathematicalOperation\MathematicalOperation\obj\Debug\MathematicalOperation.exe
+C:\Visual st\MathematicalOperation\MathematicalOperation\obj\Debug\MathematicalOperation.pdb
