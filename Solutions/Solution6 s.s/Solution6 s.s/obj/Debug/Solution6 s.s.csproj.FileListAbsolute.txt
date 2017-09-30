@@ -1,0 +1,7 @@
+C:\Visual st\Solution6 s.s\Solution6 s.s\bin\Debug\Solution6 s.s.exe.config
+C:\Visual st\Solution6 s.s\Solution6 s.s\bin\Debug\Solution6 s.s.exe
+C:\Visual st\Solution6 s.s\Solution6 s.s\bin\Debug\Solution6 s.s.pdb
+C:\Visual st\Solution6 s.s\Solution6 s.s\obj\Debug\Solution6 s.s.csprojResolveAssemblyReference.cache
+C:\Visual st\Solution6 s.s\Solution6 s.s\obj\Debug\Solution6 s.s.csproj.CoreCompileInputs.cache
+C:\Visual st\Solution6 s.s\Solution6 s.s\obj\Debug\Solution6 s.s.exe
+C:\Visual st\Solution6 s.s\Solution6 s.s\obj\Debug\Solution6 s.s.pdb

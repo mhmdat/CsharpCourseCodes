@@ -1,0 +1,7 @@
+C:\Visual st\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Visual st\Solution\Solution\bin\Debug\Solution.exe
+C:\Visual st\Solution\Solution\bin\Debug\Solution.pdb
+C:\Visual st\Solution\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+C:\Visual st\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+C:\Visual st\Solution\Solution\obj\Debug\Solution.exe
+C:\Visual st\Solution\Solution\obj\Debug\Solution.pdb

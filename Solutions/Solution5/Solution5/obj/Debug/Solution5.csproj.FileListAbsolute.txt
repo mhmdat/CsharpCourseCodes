@@ -1,0 +1,7 @@
+C:\Visual st\Solution5\Solution5\bin\Debug\Solution5.exe.config
+C:\Visual st\Solution5\Solution5\bin\Debug\Solution5.exe
+C:\Visual st\Solution5\Solution5\bin\Debug\Solution5.pdb
+C:\Visual st\Solution5\Solution5\obj\Debug\Solution5.csprojResolveAssemblyReference.cache
+C:\Visual st\Solution5\Solution5\obj\Debug\Solution5.csproj.CoreCompileInputs.cache
+C:\Visual st\Solution5\Solution5\obj\Debug\Solution5.exe
+C:\Visual st\Solution5\Solution5\obj\Debug\Solution5.pdb
