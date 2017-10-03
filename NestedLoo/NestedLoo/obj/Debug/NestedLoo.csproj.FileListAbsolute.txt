@@ -1,0 +1,7 @@
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\bin\Debug\NestedLoo.exe.config
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\bin\Debug\NestedLoo.exe
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\bin\Debug\NestedLoo.pdb
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\obj\Debug\NestedLoo.csprojResolveAssemblyReference.cache
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\obj\Debug\NestedLoo.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\obj\Debug\NestedLoo.exe
+C:\Users\Mhmd\source\repos\NestedLoo\NestedLoo\obj\Debug\NestedLoo.pdb
