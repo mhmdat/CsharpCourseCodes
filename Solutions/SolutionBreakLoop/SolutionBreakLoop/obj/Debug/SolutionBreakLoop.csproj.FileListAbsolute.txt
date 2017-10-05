@@ -1,0 +1,6 @@
+C:\Visual st\SolutionBreakLoop\SolutionBreakLoop\bin\Debug\SolutionBreakLoop.exe.config
+C:\Visual st\SolutionBreakLoop\SolutionBreakLoop\bin\Debug\SolutionBreakLoop.exe
+C:\Visual st\SolutionBreakLoop\SolutionBreakLoop\bin\Debug\SolutionBreakLoop.pdb
+C:\Visual st\SolutionBreakLoop\SolutionBreakLoop\obj\Debug\SolutionBreakLoop.csproj.CoreCompileInputs.cache
+C:\Visual st\SolutionBreakLoop\SolutionBreakLoop\obj\Debug\SolutionBreakLoop.exe
+C:\Visual st\SolutionBreakLoop\SolutionBreakLoop\obj\Debug\SolutionBreakLoop.pdb
