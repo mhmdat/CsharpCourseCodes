@@ -1,0 +1,7 @@
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\bin\Debug\Solution of Impicit Conversion.exe.config
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\bin\Debug\Solution of Impicit Conversion.exe
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\bin\Debug\Solution of Impicit Conversion.pdb
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\obj\Debug\Solution of Impicit Conversion.csprojResolveAssemblyReference.cache
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\obj\Debug\Solution of Impicit Conversion.csproj.CoreCompileInputs.cache
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\obj\Debug\Solution of Impicit Conversion.exe
+C:\Visual st\Solution of Impicit Conversion\Solution of Impicit Conversion\obj\Debug\Solution of Impicit Conversion.pdb
