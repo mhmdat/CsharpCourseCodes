@@ -1,0 +1,7 @@
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\bin\Debug\Loop-BreakCommand.exe.config
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\bin\Debug\Loop-BreakCommand.exe
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\bin\Debug\Loop-BreakCommand.pdb
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\obj\Debug\Loop-BreakCommand.csprojResolveAssemblyReference.cache
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\obj\Debug\Loop-BreakCommand.csproj.CoreCompileInputs.cache
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\obj\Debug\Loop-BreakCommand.exe
+C:\Visual st\Loop-BreakCommand\Loop-BreakCommand\obj\Debug\Loop-BreakCommand.pdb
