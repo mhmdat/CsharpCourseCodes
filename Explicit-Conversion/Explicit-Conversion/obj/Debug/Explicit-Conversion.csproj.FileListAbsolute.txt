@@ -1,0 +1,7 @@
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\bin\Debug\Explicit-Conversion.exe.config
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\bin\Debug\Explicit-Conversion.exe
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\bin\Debug\Explicit-Conversion.pdb
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.csprojResolveAssemblyReference.cache
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.csproj.CoreCompileInputs.cache
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.exe
+C:\Visual st\Explicit-Conversion\Explicit-Conversion\obj\Debug\Explicit-Conversion.pdb
