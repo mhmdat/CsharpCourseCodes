@@ -1,0 +1,7 @@
+C:\Visual st\implicit conversion\implicit conversion\bin\Debug\implicit conversion.exe.config
+C:\Visual st\implicit conversion\implicit conversion\bin\Debug\implicit conversion.exe
+C:\Visual st\implicit conversion\implicit conversion\bin\Debug\implicit conversion.pdb
+C:\Visual st\implicit conversion\implicit conversion\obj\Debug\implicit conversion.csprojResolveAssemblyReference.cache
+C:\Visual st\implicit conversion\implicit conversion\obj\Debug\implicit conversion.csproj.CoreCompileInputs.cache
+C:\Visual st\implicit conversion\implicit conversion\obj\Debug\implicit conversion.exe
+C:\Visual st\implicit conversion\implicit conversion\obj\Debug\implicit conversion.pdb
