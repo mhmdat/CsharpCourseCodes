@@ -1,0 +1,6 @@
+C:\Visual st\Solution 18\Solution 18\bin\Debug\Solution 18.exe.config
+C:\Visual st\Solution 18\Solution 18\bin\Debug\Solution 18.exe
+C:\Visual st\Solution 18\Solution 18\bin\Debug\Solution 18.pdb
+C:\Visual st\Solution 18\Solution 18\obj\Debug\Solution 18.csproj.CoreCompileInputs.cache
+C:\Visual st\Solution 18\Solution 18\obj\Debug\Solution 18.exe
+C:\Visual st\Solution 18\Solution 18\obj\Debug\Solution 18.pdb
