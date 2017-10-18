@@ -1,0 +1,7 @@
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\bin\Debug\Checked-Unchecked.exe.config
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\bin\Debug\Checked-Unchecked.exe
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\bin\Debug\Checked-Unchecked.pdb
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\obj\Debug\Checked-Unchecked.csprojResolveAssemblyReference.cache
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\obj\Debug\Checked-Unchecked.csproj.CoreCompileInputs.cache
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\obj\Debug\Checked-Unchecked.exe
+C:\Visual st\Checked-Unchecked\Checked-Unchecked\obj\Debug\Checked-Unchecked.pdb
