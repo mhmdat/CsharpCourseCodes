@@ -1,0 +1,7 @@
+C:\Visual st\Enums Variable\Enums Variable\bin\Debug\Enums Variable.exe.config
+C:\Visual st\Enums Variable\Enums Variable\bin\Debug\Enums Variable.exe
+C:\Visual st\Enums Variable\Enums Variable\bin\Debug\Enums Variable.pdb
+C:\Visual st\Enums Variable\Enums Variable\obj\Debug\Enums Variable.csprojResolveAssemblyReference.cache
+C:\Visual st\Enums Variable\Enums Variable\obj\Debug\Enums Variable.csproj.CoreCompileInputs.cache
+C:\Visual st\Enums Variable\Enums Variable\obj\Debug\Enums Variable.exe
+C:\Visual st\Enums Variable\Enums Variable\obj\Debug\Enums Variable.pdb
