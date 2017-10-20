@@ -1,0 +1,7 @@
+C:\Visual st\Structure Type\Structure Type\bin\Debug\Structure Type.exe.config
+C:\Visual st\Structure Type\Structure Type\bin\Debug\Structure Type.exe
+C:\Visual st\Structure Type\Structure Type\bin\Debug\Structure Type.pdb
+C:\Visual st\Structure Type\Structure Type\obj\Debug\Structure Type.csprojResolveAssemblyReference.cache
+C:\Visual st\Structure Type\Structure Type\obj\Debug\Structure Type.csproj.CoreCompileInputs.cache
+C:\Visual st\Structure Type\Structure Type\obj\Debug\Structure Type.exe
+C:\Visual st\Structure Type\Structure Type\obj\Debug\Structure Type.pdb
