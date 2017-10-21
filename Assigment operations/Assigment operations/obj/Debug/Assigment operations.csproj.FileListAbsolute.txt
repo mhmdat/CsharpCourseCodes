@@ -1,0 +1,7 @@
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\bin\Debug\Assigment operations.exe.config
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\bin\Debug\Assigment operations.exe
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\bin\Debug\Assigment operations.pdb
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\obj\Debug\Assigment operations.csprojResolveAssemblyReference.cache
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\obj\Debug\Assigment operations.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\obj\Debug\Assigment operations.exe
+C:\Users\Mhmd\source\repos\Assigment operations\Assigment operations\obj\Debug\Assigment operations.pdb
