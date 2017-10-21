@@ -1,0 +1,7 @@
+C:\Visual st\Challange 21\Challange 21\bin\Debug\Challange 21.exe.config
+C:\Visual st\Challange 21\Challange 21\bin\Debug\Challange 21.exe
+C:\Visual st\Challange 21\Challange 21\bin\Debug\Challange 21.pdb
+C:\Visual st\Challange 21\Challange 21\obj\Debug\Challange 21.csprojResolveAssemblyReference.cache
+C:\Visual st\Challange 21\Challange 21\obj\Debug\Challange 21.csproj.CoreCompileInputs.cache
+C:\Visual st\Challange 21\Challange 21\obj\Debug\Challange 21.exe
+C:\Visual st\Challange 21\Challange 21\obj\Debug\Challange 21.pdb
