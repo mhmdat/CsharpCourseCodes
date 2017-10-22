@@ -1,0 +1,6 @@
+C:\Users\Mhmd\Desktop\Array And Foreach\Array And Foreach\bin\Debug\Array And Foreach.exe.config
+C:\Users\Mhmd\Desktop\Array And Foreach\Array And Foreach\bin\Debug\Array And Foreach.exe
+C:\Users\Mhmd\Desktop\Array And Foreach\Array And Foreach\bin\Debug\Array And Foreach.pdb
+C:\Users\Mhmd\Desktop\Array And Foreach\Array And Foreach\obj\Debug\Array And Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Mhmd\Desktop\Array And Foreach\Array And Foreach\obj\Debug\Array And Foreach.exe
+C:\Users\Mhmd\Desktop\Array And Foreach\Array And Foreach\obj\Debug\Array And Foreach.pdb
