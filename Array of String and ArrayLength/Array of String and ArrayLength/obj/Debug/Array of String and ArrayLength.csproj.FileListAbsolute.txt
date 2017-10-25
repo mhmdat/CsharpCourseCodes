@@ -1,0 +1,7 @@
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\bin\Debug\Array of String and ArrayLength.exe.config
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\bin\Debug\Array of String and ArrayLength.exe
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\bin\Debug\Array of String and ArrayLength.pdb
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\obj\Debug\Array of String and ArrayLength.csprojResolveAssemblyReference.cache
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\obj\Debug\Array of String and ArrayLength.csproj.CoreCompileInputs.cache
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\obj\Debug\Array of String and ArrayLength.exe
+C:\Visual st\Array of String and ArrayLength\Array of String and ArrayLength\obj\Debug\Array of String and ArrayLength.pdb
