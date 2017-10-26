@@ -1,0 +1,7 @@
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\obj\Debug\ToUpper Vs ToLower and Trim Function.csprojResolveAssemblyReference.cache
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\obj\Debug\ToUpper Vs ToLower and Trim Function.csproj.CoreCompileInputs.cache
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\bin\Debug\ToUpper Vs ToLower and Trim Function.exe.config
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\bin\Debug\ToUpper Vs ToLower and Trim Function.exe
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\bin\Debug\ToUpper Vs ToLower and Trim Function.pdb
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\obj\Debug\ToUpper Vs ToLower and Trim Function.exe
+C:\Visual st\ToUpper Vs ToLower and Trim Function\ToUpper Vs ToLower and Trim Function\obj\Debug\ToUpper Vs ToLower and Trim Function.pdb
