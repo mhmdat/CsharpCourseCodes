@@ -1,0 +1,6 @@
+C:\Visual st\Challange 26\Challange 26\bin\Debug\Challange 26.exe.config
+C:\Visual st\Challange 26\Challange 26\bin\Debug\Challange 26.exe
+C:\Visual st\Challange 26\Challange 26\bin\Debug\Challange 26.pdb
+C:\Visual st\Challange 26\Challange 26\obj\Debug\Challange 26.csproj.CoreCompileInputs.cache
+C:\Visual st\Challange 26\Challange 26\obj\Debug\Challange 26.exe
+C:\Visual st\Challange 26\Challange 26\obj\Debug\Challange 26.pdb
