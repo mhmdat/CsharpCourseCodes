@@ -1,0 +1,7 @@
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\bin\Debug\Trim Functions2 and Pads Functions.exe.config
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\bin\Debug\Trim Functions2 and Pads Functions.exe
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\bin\Debug\Trim Functions2 and Pads Functions.pdb
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\obj\Debug\Trim Functions2 and Pads Functions.csprojResolveAssemblyReference.cache
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\obj\Debug\Trim Functions2 and Pads Functions.csproj.CoreCompileInputs.cache
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\obj\Debug\Trim Functions2 and Pads Functions.exe
+C:\Visual st\Trim Functions2 and Pads Functions\Trim Functions2 and Pads Functions\obj\Debug\Trim Functions2 and Pads Functions.pdb
