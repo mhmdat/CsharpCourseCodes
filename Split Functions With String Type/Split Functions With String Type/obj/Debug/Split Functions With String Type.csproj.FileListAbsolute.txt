@@ -1,0 +1,7 @@
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\bin\Debug\Split Functions With String Type.exe.config
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\bin\Debug\Split Functions With String Type.exe
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\bin\Debug\Split Functions With String Type.pdb
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\obj\Debug\Split Functions With String Type.csprojResolveAssemblyReference.cache
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\obj\Debug\Split Functions With String Type.csproj.CoreCompileInputs.cache
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\obj\Debug\Split Functions With String Type.exe
+C:\Visual st\Split Functions With String Type\Split Functions With String Type\obj\Debug\Split Functions With String Type.pdb
