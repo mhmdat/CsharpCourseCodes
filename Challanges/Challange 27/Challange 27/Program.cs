@@ -10,7 +10,7 @@ namespace Challange_27
     {
         static void Main(string[] args)
         {
-            String mystring = "Hello My Dear", mystring2;
+            String mystring = "Hello My Dear";
             Console.WriteLine("What Would You Say?");
 
             mystring = mystring.PadRight(14, 'e');
