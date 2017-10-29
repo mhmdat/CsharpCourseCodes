@@ -1,0 +1,7 @@
+C:\Visual st\Minimum Value Function\Minimum Value Function\bin\Debug\Minimum Value Function.exe.config
+C:\Visual st\Minimum Value Function\Minimum Value Function\bin\Debug\Minimum Value Function.exe
+C:\Visual st\Minimum Value Function\Minimum Value Function\bin\Debug\Minimum Value Function.pdb
+C:\Visual st\Minimum Value Function\Minimum Value Function\obj\Debug\Minimum Value Function.csprojResolveAssemblyReference.cache
+C:\Visual st\Minimum Value Function\Minimum Value Function\obj\Debug\Minimum Value Function.csproj.CoreCompileInputs.cache
+C:\Visual st\Minimum Value Function\Minimum Value Function\obj\Debug\Minimum Value Function.exe
+C:\Visual st\Minimum Value Function\Minimum Value Function\obj\Debug\Minimum Value Function.pdb
