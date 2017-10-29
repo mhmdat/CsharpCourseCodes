@@ -1,0 +1,7 @@
+C:\Visual st\Return Value Functions\Return Value Functions\bin\Debug\Return Value Functions.exe.config
+C:\Visual st\Return Value Functions\Return Value Functions\bin\Debug\Return Value Functions.exe
+C:\Visual st\Return Value Functions\Return Value Functions\bin\Debug\Return Value Functions.pdb
+C:\Visual st\Return Value Functions\Return Value Functions\obj\Debug\Return Value Functions.csprojResolveAssemblyReference.cache
+C:\Visual st\Return Value Functions\Return Value Functions\obj\Debug\Return Value Functions.csproj.CoreCompileInputs.cache
+C:\Visual st\Return Value Functions\Return Value Functions\obj\Debug\Return Value Functions.exe
+C:\Visual st\Return Value Functions\Return Value Functions\obj\Debug\Return Value Functions.pdb
