@@ -1,0 +1,7 @@
+D:\Visual st\Out Parameters\Out Parameters\bin\Debug\Out Parameters.exe.config
+D:\Visual st\Out Parameters\Out Parameters\bin\Debug\Out Parameters.exe
+D:\Visual st\Out Parameters\Out Parameters\bin\Debug\Out Parameters.pdb
+D:\Visual st\Out Parameters\Out Parameters\obj\Debug\Out Parameters.csprojResolveAssemblyReference.cache
+D:\Visual st\Out Parameters\Out Parameters\obj\Debug\Out Parameters.csproj.CoreCompileInputs.cache
+D:\Visual st\Out Parameters\Out Parameters\obj\Debug\Out Parameters.exe
+D:\Visual st\Out Parameters\Out Parameters\obj\Debug\Out Parameters.pdb
