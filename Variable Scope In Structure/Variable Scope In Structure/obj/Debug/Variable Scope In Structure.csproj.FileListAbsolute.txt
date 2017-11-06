@@ -1,0 +1,7 @@
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\bin\Debug\Variable Scope In Structure.exe.config
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\bin\Debug\Variable Scope In Structure.exe
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\bin\Debug\Variable Scope In Structure.pdb
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\obj\Debug\Variable Scope In Structure.csprojResolveAssemblyReference.cache
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\obj\Debug\Variable Scope In Structure.csproj.CoreCompileInputs.cache
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\obj\Debug\Variable Scope In Structure.exe
+D:\Visual st\Variable Scope In Structure\Variable Scope In Structure\obj\Debug\Variable Scope In Structure.pdb
