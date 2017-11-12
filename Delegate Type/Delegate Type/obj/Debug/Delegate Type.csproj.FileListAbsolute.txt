@@ -1,0 +1,7 @@
+D:\Visual st\Delegate Type\Delegate Type\bin\Debug\Delegate Type.exe.config
+D:\Visual st\Delegate Type\Delegate Type\bin\Debug\Delegate Type.exe
+D:\Visual st\Delegate Type\Delegate Type\bin\Debug\Delegate Type.pdb
+D:\Visual st\Delegate Type\Delegate Type\obj\Debug\Delegate Type.csprojResolveAssemblyReference.cache
+D:\Visual st\Delegate Type\Delegate Type\obj\Debug\Delegate Type.csproj.CoreCompileInputs.cache
+D:\Visual st\Delegate Type\Delegate Type\obj\Debug\Delegate Type.exe
+D:\Visual st\Delegate Type\Delegate Type\obj\Debug\Delegate Type.pdb
