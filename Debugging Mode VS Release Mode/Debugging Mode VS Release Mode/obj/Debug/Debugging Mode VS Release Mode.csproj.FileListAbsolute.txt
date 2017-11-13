@@ -1,0 +1,7 @@
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\bin\Debug\Debugging Mode VS Release Mode.exe.config
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\bin\Debug\Debugging Mode VS Release Mode.exe
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\bin\Debug\Debugging Mode VS Release Mode.pdb
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\obj\Debug\Debugging Mode VS Release Mode.csprojResolveAssemblyReference.cache
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\obj\Debug\Debugging Mode VS Release Mode.csproj.CoreCompileInputs.cache
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\obj\Debug\Debugging Mode VS Release Mode.exe
+D:\Visual st\Debugging Mode VS Release Mode\Debugging Mode VS Release Mode\obj\Debug\Debugging Mode VS Release Mode.pdb
