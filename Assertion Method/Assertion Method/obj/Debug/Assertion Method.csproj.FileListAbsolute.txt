@@ -1,0 +1,7 @@
+D:\Visual st\Assertion Method\Assertion Method\bin\Debug\Assertion Method.exe.config
+D:\Visual st\Assertion Method\Assertion Method\bin\Debug\Assertion Method.exe
+D:\Visual st\Assertion Method\Assertion Method\bin\Debug\Assertion Method.pdb
+D:\Visual st\Assertion Method\Assertion Method\obj\Debug\Assertion Method.csprojResolveAssemblyReference.cache
+D:\Visual st\Assertion Method\Assertion Method\obj\Debug\Assertion Method.csproj.CoreCompileInputs.cache
+D:\Visual st\Assertion Method\Assertion Method\obj\Debug\Assertion Method.exe
+D:\Visual st\Assertion Method\Assertion Method\obj\Debug\Assertion Method.pdb
