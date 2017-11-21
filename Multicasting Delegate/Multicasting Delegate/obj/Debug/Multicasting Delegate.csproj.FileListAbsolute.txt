@@ -1,0 +1,7 @@
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\bin\Debug\Multicasting Delegate.exe.config
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\bin\Debug\Multicasting Delegate.exe
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\bin\Debug\Multicasting Delegate.pdb
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\obj\Debug\Multicasting Delegate.csprojResolveAssemblyReference.cache
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\obj\Debug\Multicasting Delegate.csproj.CoreCompileInputs.cache
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\obj\Debug\Multicasting Delegate.exe
+D:\Visual st\Multicasting Delegate\Multicasting Delegate\obj\Debug\Multicasting Delegate.pdb
