@@ -1,0 +1,7 @@
+D:\Visual st\Lambda Expression\Lambda Expression\bin\Debug\Lambda Expression.exe.config
+D:\Visual st\Lambda Expression\Lambda Expression\bin\Debug\Lambda Expression.exe
+D:\Visual st\Lambda Expression\Lambda Expression\bin\Debug\Lambda Expression.pdb
+D:\Visual st\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.csprojResolveAssemblyReference.cache
+D:\Visual st\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.csproj.CoreCompileInputs.cache
+D:\Visual st\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.exe
+D:\Visual st\Lambda Expression\Lambda Expression\obj\Debug\Lambda Expression.pdb
