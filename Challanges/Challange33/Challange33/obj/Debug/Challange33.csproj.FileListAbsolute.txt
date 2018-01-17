@@ -1,0 +1,7 @@
+D:\Visual st\Challange33\Challange33\bin\Debug\Challange33.exe.config
+D:\Visual st\Challange33\Challange33\bin\Debug\Challange33.exe
+D:\Visual st\Challange33\Challange33\bin\Debug\Challange33.pdb
+D:\Visual st\Challange33\Challange33\obj\Debug\Challange33.csprojResolveAssemblyReference.cache
+D:\Visual st\Challange33\Challange33\obj\Debug\Challange33.csproj.CoreCompileInputs.cache
+D:\Visual st\Challange33\Challange33\obj\Debug\Challange33.exe
+D:\Visual st\Challange33\Challange33\obj\Debug\Challange33.pdb
