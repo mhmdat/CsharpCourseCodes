@@ -1,0 +1,7 @@
+D:\Visual st\NullableValues\NullableValues\bin\Debug\NullableValues.exe.config
+D:\Visual st\NullableValues\NullableValues\bin\Debug\NullableValues.exe
+D:\Visual st\NullableValues\NullableValues\bin\Debug\NullableValues.pdb
+D:\Visual st\NullableValues\NullableValues\obj\Debug\NullableValues.csprojResolveAssemblyReference.cache
+D:\Visual st\NullableValues\NullableValues\obj\Debug\NullableValues.csproj.CoreCompileInputs.cache
+D:\Visual st\NullableValues\NullableValues\obj\Debug\NullableValues.exe
+D:\Visual st\NullableValues\NullableValues\obj\Debug\NullableValues.pdb
