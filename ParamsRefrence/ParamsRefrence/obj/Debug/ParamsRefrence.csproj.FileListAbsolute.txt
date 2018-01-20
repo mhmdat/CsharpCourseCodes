@@ -1,0 +1,7 @@
+D:\Visual st\ParamsRefrence\ParamsRefrence\obj\Debug\ParamsRefrence.csprojResolveAssemblyReference.cache
+D:\Visual st\ParamsRefrence\ParamsRefrence\obj\Debug\ParamsRefrence.csproj.CoreCompileInputs.cache
+D:\Visual st\ParamsRefrence\ParamsRefrence\bin\Debug\ParamsRefrence.exe.config
+D:\Visual st\ParamsRefrence\ParamsRefrence\bin\Debug\ParamsRefrence.exe
+D:\Visual st\ParamsRefrence\ParamsRefrence\bin\Debug\ParamsRefrence.pdb
+D:\Visual st\ParamsRefrence\ParamsRefrence\obj\Debug\ParamsRefrence.exe
+D:\Visual st\ParamsRefrence\ParamsRefrence\obj\Debug\ParamsRefrence.pdb
