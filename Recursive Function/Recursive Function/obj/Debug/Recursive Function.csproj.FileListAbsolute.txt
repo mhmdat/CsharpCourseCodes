@@ -1,0 +1,7 @@
+D:\Visual st\Recursive Function\Recursive Function\bin\Debug\Recursive Function.exe.config
+D:\Visual st\Recursive Function\Recursive Function\bin\Debug\Recursive Function.exe
+D:\Visual st\Recursive Function\Recursive Function\bin\Debug\Recursive Function.pdb
+D:\Visual st\Recursive Function\Recursive Function\obj\Debug\Recursive Function.csprojResolveAssemblyReference.cache
+D:\Visual st\Recursive Function\Recursive Function\obj\Debug\Recursive Function.csproj.CoreCompileInputs.cache
+D:\Visual st\Recursive Function\Recursive Function\obj\Debug\Recursive Function.exe
+D:\Visual st\Recursive Function\Recursive Function\obj\Debug\Recursive Function.pdb
