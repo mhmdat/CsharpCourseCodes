@@ -1,0 +1,7 @@
+D:\Visual st\GoTo\GoTo\bin\Debug\GoTo.exe.config
+D:\Visual st\GoTo\GoTo\bin\Debug\GoTo.exe
+D:\Visual st\GoTo\GoTo\bin\Debug\GoTo.pdb
+D:\Visual st\GoTo\GoTo\obj\Debug\GoTo.csprojResolveAssemblyReference.cache
+D:\Visual st\GoTo\GoTo\obj\Debug\GoTo.csproj.CoreCompileInputs.cache
+D:\Visual st\GoTo\GoTo\obj\Debug\GoTo.exe
+D:\Visual st\GoTo\GoTo\obj\Debug\GoTo.pdb
